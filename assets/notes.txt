@@ -1,0 +1,5 @@
+
+//file path for robbie taunts
+
+
+C:\Program Files (x86)\Steam\steamapps\workshop\content\221380\960459430\resources\en\sound\taunt
